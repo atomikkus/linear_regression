@@ -1,6 +1,6 @@
 # Linear Regression
 
-I have attempted to write the Linear Regression algorithm from scratch. The implementation includes the following key components:
+I have attempted to write the Linear Regression algorithm from scratch. This repository is basically my notes and jupyter notebook made public. The implementation includes the following key components:
 
 - **Linear Regression Class**: I have defined a class to encapsulate the Linear Regression algorithm.
 - **Gradient Descent**: The algorithm utilizes gradient descent to optimize the model parameters.
@@ -12,7 +12,7 @@ The code is structured to demonstrate a basic implementation of Linear Regressio
 
 Feel free to explore the code and provide any feedback or suggestions for improvement. Your contributions and insights are highly appreciated!
 
-Thank you for visiting the repository and your interest in the Linear Regression algorithm implementation!
+## Theory and Notes
 
 
 #### Linear regression is a fundamental statistical method used to understand the relationship between a dependent variable and one or more independent variables. It aims to find the best-fitting linear equation that predicts the dependent variable based on the independent variables. In simpler terms, linear regression helps us analyze how changes in one variable are associated with changes in another, allowing us to make predictions and uncover patterns in data.
