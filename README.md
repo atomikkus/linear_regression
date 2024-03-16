@@ -25,3 +25,30 @@ The assumptions of linear regression include several key criteria that need to b
 - *Independence of Errors*: The errors should be independent of each other.
 - *No Multicollinearity*: The independent variables should not be highly correlated with each other.
 These assumptions ensure the reliability and accuracy of the linear regression model in making predictions and drawing inferences from the data
+
+### Evaluation of the Model
+
+When assessing the performance of a linear regression model, several evaluation metrics are commonly used to understand how well the model fits the data and makes predictions. Here, we will discuss Mean Absolute Error (MAE), R-squared (R2), and Mean Squared Error (MSE) as key evaluation metrics for linear regression models.
+
+#### Mean Absolute Error (MAE)
+- **Definition**: MAE measures the average absolute difference between the actual values and the predicted values.
+- **Interpretation**: A lower MAE indicates that the model's predictions are closer to the actual values.
+- **Usage**: MAE is suitable when you want to understand the average magnitude of errors in your predictions without considering their direction.
+- ![image](https://github.com/atomikkus/linear_regression/assets/87168509/95701390-5ece-46f4-8a56-dcf42bbcd11d)
+
+#### Mean Squared Error (MSE)
+- **Definition**: MSE calculates the average of the squared differences between the actual values and the predicted values.
+- **Interpretation**: MSE penalizes larger errors more heavily than smaller errors.
+- **Usage**: MSE is commonly used to evaluate the accuracy of a regression model by looking at the average squared differences between predicted and actual values.
+- ![image](https://github.com/atomikkus/linear_regression/assets/87168509/372825ca-d318-41d6-bad1-b5544724ddbd)
+
+
+#### R-squared (R2)
+- **Definition**: R2 represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
+- **Interpretation**: R2 value ranges from 0 to 1, where 1 indicates a perfect fit.
+- **Usage**: R2 is used to understand how well the independent variables explain the variability in the dependent variable.
+- ![image](https://github.com/atomikkus/linear_regression/assets/87168509/16a55809-4b64-42de-8a65-350092b89a5c)
+
+
+These evaluation metrics play a crucial role in assessing the performance of linear regression models and provide insights into how well the model generalizes to new data and how accurately it predicts the target variable based on the features.
+
