@@ -52,3 +52,8 @@ When assessing the performance of a linear regression model, several evaluation 
 
 These evaluation metrics play a crucial role in assessing the performance of linear regression models and provide insights into how well the model generalizes to new data and how accurately it predicts the target variable based on the features.
 
+#### Useful Links
+- [Understanding How To Interpret R2, MSE and MAE](https://ai.plainenglish.io/understanding-common-regression-evaluation-metrics-mae-mse-rmse-r2-and-adjusted-r2-6c5709e614c4)
+- [Assumtions of Linear Regression](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
+- [Visualize Gradient  Descent](https://uclaacm.github.io/gradient-descent-visualiser/)
+- [Linear Regression from  scratch in Python](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
